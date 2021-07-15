@@ -1,5 +1,5 @@
 # Developer Quick Access Links
-Quick access links for all things developer workflow-related
+Quick access links for all things developer workflow-related. For more [reference](https://www.youtube.com/watch?v=eJojC3lSkwg) on writing Markdown.
 
 ### Figma Design
 - [FREE Templates](https://www.templatefreebies.com/)
