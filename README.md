@@ -25,7 +25,11 @@ Quick access links for all things developer workflow-related.
 - [Fast Excel Reading](https://towardsdatascience.com/read-excel-files-with-python-1000x-faster-407d07ad0ed8)
 
 ### Coding Interview Prep Resources
-
+- [Acing Your Interview 1 - Data Structures & Algorithms](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-1-algorithms-and-data-structures-1b2accf115c)
+- [Acing Your Interview 2 - Behavioral Questions](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-2-behavioral-questions-a56e916cf834)
+- [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
+- [Acing Your Interview 4 - Mental Game](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-4-the-mental-game-3a53c9d9cbfa)
+- [Breaking into Big Tech](https://chioualexander.medium.com/how-to-break-into-big-tech-as-a-software-engineer-a818322ad0b2)
 
 ### Interview Experiences
 - [Google ML Engineer Interview Experience, Offer in East Coast](https://mlengineer.io/google-ml-engineer-interview-experience-offer-east-coast-2021-94ac6720bb79)
