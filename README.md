@@ -5,7 +5,7 @@ Quick access links for all things developer workflow-related.
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
 - [Kick-Ass GitHub Profile](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b)
 
-### Google Tech Dev Guides
+### Google Development Guides
 - [Tech Dev Guide](https://techdevguide.withgoogle.com/paths/)
 - [Business Dev Guide](https://businessdevguide.withgoogle.com/paths/industry/)
 
