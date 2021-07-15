@@ -17,6 +17,7 @@ Quick access links for all things developer workflow-related.
 - [Figma Quick Start in 24 min](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 
 ### Advanced Python
+- [Resources to Learn Python](https://towardsdatascience.com/the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943)
 - [Leveling Up Your Python Code](https://betterprogramming.pub/4-ways-to-level-up-your-python-code-f148a50efeea)
 - [What's New in Python 3.10-4](https://towardsdatascience.com/whats-new-in-python-3-10-4-amazing-features-you-should-try-4f3044871476)
 - [10 Advanced Python Tips and Tricks for Cleaner Code](https://medium.com/pythonland/10-advanced-python-tricks-to-write-faster-cleaner-code-f9ee76fa878f)
@@ -30,6 +31,7 @@ Quick access links for all things developer workflow-related.
 - [Google ML Engineer Interview Experience, Offer in East Coast](https://mlengineer.io/google-ml-engineer-interview-experience-offer-east-coast-2021-94ac6720bb79)
 - [ThoughtWorks](https://mandaljaideb.medium.com/interview-experience-thoughtworks-8ca11fdabf6a)
 - [MakeMyTrip](https://arpitconnect.medium.com/makemytrip-interview-experience-fte-b189799bbeb5)
+- [1 Year of Interviewing Reflection](https://gabrymartinez.medium.com/10-learnings-from-one-year-of-preparing-and-having-tech-interviews-3fa929b5b83a)
 
 ### Software Engineering: Lessons Learned
 - [Lessons Learned from the Smartest Software Engineer I've Met](https://svpino.com/lessons-learned-from-the-smartest-software-engineer-ive-met-35895ac9fe3a)
@@ -52,3 +54,13 @@ Quick access links for all things developer workflow-related.
 
 ### Libraries I've Worked With
 - [Stanford Lex Parser in Java](https://nlp.stanford.edu/software/lex-parser.shtml)
+
+### Backend Development
+- [5 Most Scalable Development Languages and Frameworks in 2021-2022](https://medium.com/backenders-club/5-most-scalable-backend-development-languages-frameworks-in-2021-22-f7f96101c19b)
+
+### App Development
+- [Slack Cost](https://javascript.plainenglish.io/how-much-does-it-cost-to-build-a-messaging-app-like-slack-3177f1f7664c)
+
+### SpaceX
+- [Deep Dive into Insane Starlink Software](https://www.youtube.com/watch?v=iKtOW92ncq0)
+- [About Starlink Project](https://medium.com/recurrent-patterns/elon-musks-starlink-will-become-the-black-hole-project-45b59797cc23)
