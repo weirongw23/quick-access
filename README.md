@@ -29,6 +29,7 @@ Quick access links for all things developer workflow-related.
 ### Interview Experiences
 - [Google ML Engineer Interview Experience, Offer in East Coast](https://mlengineer.io/google-ml-engineer-interview-experience-offer-east-coast-2021-94ac6720bb79)
 - [ThoughtWorks](https://mandaljaideb.medium.com/interview-experience-thoughtworks-8ca11fdabf6a)
+- [MakeMyTrip](https://arpitconnect.medium.com/makemytrip-interview-experience-fte-b189799bbeb5)
 
 ### Software Engineering: Lessons Learned
 - [Lessons Learned from the Smartest Software Engineer I've Met](https://svpino.com/lessons-learned-from-the-smartest-software-engineer-ive-met-35895ac9fe3a)
@@ -37,5 +38,17 @@ Quick access links for all things developer workflow-related.
 - [My 6-Month Software Engineering Experience at IBM Watson]() - Release Date: 8/4/2021
 - [How to Manage Time Effectively as a Software Engineer]() - Release Date: 8/15/2021
 
-### Awesome DS Projects
+### Awesome DS/Python Projects
 - [Data Science projects That Will Get You the Job](https://towardsdatascience.com/data-science-projects-that-will-get-you-the-job-805065e7260)
+- [5 Solved End-to-End Projects in Python](https://towardsdatascience.com/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0)
+- [Task Automation in Python](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
+- [Resume Screening](https://towardsdatascience.com/resume-screening-with-python-1dea360be49b)
+
+### Software Developer Books
+- [3 Book Recommendations to level up SWE Skills](https://medium.com/analytics-vidhya/3-books-to-read-this-summer-to-boost-your-coding-skills-and-career-47401769f035)
+
+### Learning Roadmaps
+- [Data Engineering](https://towardsdatascience.com/data-engineering-roadmap-for-2021-eac7898f0641)
+
+### Libraries I've Worked With
+- [Stanford Lex Parser in Java](https://nlp.stanford.edu/software/lex-parser.shtml)
