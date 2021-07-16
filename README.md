@@ -63,6 +63,12 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [MakeMyTrip](https://arpitconnect.medium.com/makemytrip-interview-experience-fte-b189799bbeb5)
 - [1 Year of Interviewing Reflection](https://gabrymartinez.medium.com/10-learnings-from-one-year-of-preparing-and-having-tech-interviews-3fa929b5b83a)
 
+### Meet Tech Professionals
+- [Odyssey](https://join-odyssey.com/)
+  - [Student Primer](https://community.join-odyssey.com/c/student-primer)
+  - [OH Agenda](https://join-odyssey.com/agenda-ps)
+- [Wonsulting](https://wonsulting.com/blog-job-search/how-wonsulting-creates-success-stories-for-international-job-seekers)
+
 ### Software Engineering: Lessons Learned
 - [Lessons Learned from the Smartest Software Engineer I've Met](https://svpino.com/lessons-learned-from-the-smartest-software-engineer-ive-met-35895ac9fe3a)
 - [What I Learned from TAing 281](https://mystudentvoices.com/6-things-i-learned-from-being-a-ta-at-michigan-16a3c00c4d5a)
