@@ -38,6 +38,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 
 ### Open-Source Projects
 - [IBM Watson Health: Alvearie](https://github.com/Alvearie)
+- [Rust Programming Languages](https://github.com/rust-lang)
 
 ### Research Projects
 - [Apple ML Research](https://machinelearning.apple.com/)
@@ -126,6 +127,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [DS&A Online Notes](https://datastructures.maximal.io/algorithms/)
 - [UMich Career Center for CS](https://careercenter.umich.edu/article/computer-science)
 
-### Interesting Articles
+### Interesting Articles, Podcasts, and Stories
 - [2020 Gap Year Playbook by Nate](https://www.natecation.com/tech-startup-gap-year-playbook/)
 - [I Made a Bot Write a College Application Essay by my good friend Amal](https://medium.com/the-haven/i-made-a-bot-write-a-college-application-essay-b5b46d59599d)
+- [The Michigan Story](https://anchor.fm/the-michigan-story/episodes/Varun-Madan---Culture--Vulnerability--and-Leadership-e3hep0)
