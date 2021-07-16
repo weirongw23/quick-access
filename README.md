@@ -21,6 +21,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [FreeCodeCamp Article](https://www.freecodecamp.org/news/landing-a-software-engineering-internship-66e0d541539a/)
 - [GitHub Resource: Interview Prep](https://github.com/Olshansk/interview#books-1)
 - [Tips for Interviewing](https://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/#.YPH6qhNKhwx)
+- [Algorithm Visualization](https://visualgo.net/en)
 - [Acing Your Interview 1 - Data Structures & Algorithms](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-1-algorithms-and-data-structures-1b2accf115c)
 - [Acing Your Interview 2 - Behavioral Questions](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-2-behavioral-questions-a56e916cf834)
 - [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
@@ -35,6 +36,10 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 ### Resume, Cover Letter, Portfolio
 - [How to Write a Killer Software Engineering Resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d)
 - [Kenny Talks Code Resume](https://www.youtube.com/watch?v=nIJypLfFiGs)
+- [Ultimate Guide to Creating a Portfolio Website](https://www.springboard.com/blog/careersmithing/programmer-portfolio/)
+
+### Talks
+- [Michigan Hackers Talks](http://leccap.engin.umich.edu/leccap/site/7r31hdj317ufew776zq)
 
 ### Open-Source Projects
 - [IBM Watson Health: Alvearie](https://github.com/Alvearie)
@@ -95,6 +100,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [How to Manage Time Effectively as a Software Engineer]() - Release Date: 8/15/2021
 
 ### Awesome DS/Python Projects
+- [Michigan Data Science Team (MDST)](https://midas.umich.edu/mdst/about/)
 - [Data Science projects That Will Get You the Job](https://towardsdatascience.com/data-science-projects-that-will-get-you-the-job-805065e7260)
 - [5 Solved End-to-End Projects in Python](https://towardsdatascience.com/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0)
 - [Task Automation in Python](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
@@ -127,10 +133,11 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [DS&A Online Notes](https://datastructures.maximal.io/algorithms/)
 - [UMich Career Center for CS](https://careercenter.umich.edu/article/computer-science)
 
-### Interesting Articles, Podcasts, and Stories
+### Interesting Articles, Podcasts, Videos, and Stories
 - [2020 Gap Year Playbook by Nate](https://www.natecation.com/tech-startup-gap-year-playbook/)
 - [I Made a Bot Write a College Application Essay by my good friend Amal](https://medium.com/the-haven/i-made-a-bot-write-a-college-application-essay-b5b46d59599d)
 - [The Michigan Story](https://anchor.fm/the-michigan-story/episodes/Varun-Madan---Culture--Vulnerability--and-Leadership-e3hep0)
+- [Adventures in Odyssey Rumor Has It - My Friend Anmol is a Bollywood Star](https://www.youtube.com/watch?v=noGAbf1jk8Y)
 
 ### Math
 - [Linear Algebra In-Depth Videos](https://maths-for-all.co.uk/linear-algebra/)
