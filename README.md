@@ -131,3 +131,13 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [2020 Gap Year Playbook by Nate](https://www.natecation.com/tech-startup-gap-year-playbook/)
 - [I Made a Bot Write a College Application Essay by my good friend Amal](https://medium.com/the-haven/i-made-a-bot-write-a-college-application-essay-b5b46d59599d)
 - [The Michigan Story](https://anchor.fm/the-michigan-story/episodes/Varun-Madan---Culture--Vulnerability--and-Leadership-e3hep0)
+
+### Math
+- [Linear Algebra In-Depth Videos](https://maths-for-all.co.uk/linear-algebra/)
+- [Singh Linear Algebra Solutions to Exercises](https://global.oup.com/booksites/content/9780199654444/studentsolutions/)
+- [Essence of Linear Algebra by 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Linear Algebra by Gilbert Strang](https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D)
+- [Real Analysis](https://www.youtube.com/watch?v=njzIR53eJOs&list=PLLFpXNanTP9WGfbjxR5kCMXQgol4bGehz)
+- [Discrete Math 1](https://www.youtube.com/watch?v=tyDKR4FG3Yw&list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+- [Discrete Math 2](https://www.youtube.com/watch?v=DBugSTeX1zw&list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
+- [Mathematics for Computer Science by MIT](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
