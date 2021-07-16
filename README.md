@@ -36,6 +36,12 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [How to Write a Killer Software Engineering Resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d)
 - [Kenny Talks Code Resume](https://www.youtube.com/watch?v=nIJypLfFiGs)
 
+### Open-Source Projects
+- [IBM Watson Health: Alvearie](https://github.com/Alvearie)
+
+### Research Projects
+- [Apple ML Research](https://machinelearning.apple.com/)
+
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
 - [Kick-Ass GitHub Profile](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b)
