@@ -12,7 +12,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [Why CodePath](https://hackmd.io/@nesquena/whycodepath?type=view)
 - [VCF Fall 2021](https://hackmd.io/@morganrichardson/HJb6cE8xP)
 - [Technical Mentorship Program](https://codepath.chronus.com/)
-- [Studnt Handbook](https://books.codepath.org/student-handbook/)
+- [Student Handbook](https://books.codepath.org/student-handbook/)
 
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
