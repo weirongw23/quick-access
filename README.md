@@ -1,7 +1,7 @@
-# Developer Quick Access Links
+# DEVELOPER QUICK ACCESS LINKS
 Quick access links for all things developer workflow-related.
 
-## Who Am I
+**WHO AM I
 Hi, I'm Peter. I'm an always-growing student, coder, designer, and content creator.
 
 ### GitHub
