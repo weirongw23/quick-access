@@ -32,6 +32,10 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [AlgoExpert](https://www.algoexpert.io/product)
 
+### Resume, Cover Letter, Portfolio
+- [How to Write a Killer Software Engineering Resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d)
+- [Kenny Talks Code Resume](https://www.youtube.com/watch?v=nIJypLfFiGs)
+
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
 - [Kick-Ass GitHub Profile](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b)
@@ -115,3 +119,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [Michigan Hackers](https://michiganhackers.org/)
 - [DS&A Online Notes](https://datastructures.maximal.io/algorithms/)
 - [UMich Career Center for CS](https://careercenter.umich.edu/article/computer-science)
+
+### Interesting Articles
+- [2020 Gap Year Playbook by Nate](https://www.natecation.com/tech-startup-gap-year-playbook/)
+- [I Made a Bot Write a College Application Essay by my good friend Amal](https://medium.com/the-haven/i-made-a-bot-write-a-college-application-essay-b5b46d59599d)
