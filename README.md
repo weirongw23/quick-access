@@ -4,6 +4,8 @@ Quick access links for all things developer workflow-related.
 #### WHO AM I
 Hi, I'm Peter. I'm an always-growing student, coder, designer, and content creator.
 
+## Links
+
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
 - [Kick-Ass GitHub Profile](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b)
