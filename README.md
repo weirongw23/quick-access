@@ -1,6 +1,9 @@
 # Developer Quick Access Links
 Quick access links for all things developer workflow-related.
 
+## Who Am I
+Hi, I'm Peter. I'm an always-growing student, coder, designer, and content creator.
+
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
 - [Kick-Ass GitHub Profile](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b)
@@ -16,6 +19,13 @@ Quick access links for all things developer workflow-related.
 - [Fav Figma YT Channel](https://www.youtube.com/channel/UCTIhfOopxukTIRkbXJ3kN-g)
 - [Figma Quick Start in 24 min](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 
+### Interesting Classes
+- [ML for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-coursera-partner-promo-tool-mlep-launch)
+- [CS193p - Developing iOS Apps](https://cs193p.sites.stanford.edu/)
+- [CS50 Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
+- [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
+- [Design and Code Mobile & Web Applications](https://designcode.io/)
+
 ### Advanced Python
 - [Resources to Learn Python](https://towardsdatascience.com/the-best-resources-to-learn-python-for-machine-learning-data-science-9fccd66fe943)
 - [Leveling Up Your Python Code](https://betterprogramming.pub/4-ways-to-level-up-your-python-code-f148a50efeea)
@@ -30,6 +40,10 @@ Quick access links for all things developer workflow-related.
 - [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
 - [Acing Your Interview 4 - Mental Game](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-4-the-mental-game-3a53c9d9cbfa)
 - [Breaking into Big Tech](https://chioualexander.medium.com/how-to-break-into-big-tech-as-a-software-engineer-a818322ad0b2)
+- [LeetCode](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [AlgoExpert](https://www.algoexpert.io/product)
 
 ### Interview Experiences
 - [Google ML Engineer Interview Experience, Offer in East Coast](https://mlengineer.io/google-ml-engineer-interview-experience-offer-east-coast-2021-94ac6720bb79)
@@ -39,6 +53,7 @@ Quick access links for all things developer workflow-related.
 
 ### Software Engineering: Lessons Learned
 - [Lessons Learned from the Smartest Software Engineer I've Met](https://svpino.com/lessons-learned-from-the-smartest-software-engineer-ive-met-35895ac9fe3a)
+- [What I Learned from TAing 281](https://mystudentvoices.com/6-things-i-learned-from-being-a-ta-at-michigan-16a3c00c4d5a)
 
 ### My Medium Articles
 - [My 6-Month Software Engineering Experience at IBM Watson]() - Release Date: 8/4/2021
@@ -55,6 +70,7 @@ Quick access links for all things developer workflow-related.
 
 ### Learning Roadmaps
 - [Data Engineering](https://towardsdatascience.com/data-engineering-roadmap-for-2021-eac7898f0641)
+- [Machine Learning](https://www.youtube.com/watch?v=pHiMN_gy9mk)
 
 ### Libraries I've Worked With
 - [Stanford Lex Parser in Java](https://nlp.stanford.edu/software/lex-parser.shtml)
@@ -68,3 +84,9 @@ Quick access links for all things developer workflow-related.
 ### SpaceX
 - [Deep Dive into Insane Starlink Software](https://www.youtube.com/watch?v=iKtOW92ncq0)
 - [About Starlink Project](https://medium.com/recurrent-patterns/elon-musks-starlink-will-become-the-black-hole-project-45b59797cc23)
+
+### CS Resources
+- [CS Career Questions - Reddit](https://www.reddit.com/r/cscareerquestions/)
+- [Michigan Hackers](https://michiganhackers.org/)
+- [DS&A Online Notes](https://datastructures.maximal.io/algorithms/)
+- [UMich Career Center for CS](https://careercenter.umich.edu/article/computer-science)
