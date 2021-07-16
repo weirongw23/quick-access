@@ -33,13 +33,18 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [AlgoExpert](https://www.algoexpert.io/product)
 
-### Resume, Cover Letter, Portfolio
+### Resume, Cover Letter, Portfolio, and Social Media
 - [How to Write a Killer Software Engineering Resume](https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d)
 - [Kenny Talks Code Resume](https://www.youtube.com/watch?v=nIJypLfFiGs)
 - [Ultimate Guide to Creating a Portfolio Website](https://www.springboard.com/blog/careersmithing/programmer-portfolio/)
+- [Web Design Resources with Figma and Webflow](https://www.vakoshvili.com/resources)
+- [2021 Building a Powerful Personal Brand on Social Media](https://www.youtube.com/watch?v=smDzK_DMCgk)
 
 ### Talks
 - [Michigan Hackers Talks](http://leccap.engin.umich.edu/leccap/site/7r31hdj317ufew776zq)
+
+### Hackathons & Events
+- [2021 Season Hackathons](https://mlh.io/seasons/2021/events)
 
 ### Open-Source Projects
 - [IBM Watson Health: Alvearie](https://github.com/Alvearie)
