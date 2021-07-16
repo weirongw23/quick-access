@@ -31,6 +31,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 
 ### Interesting Classes
 - [ML for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-coursera-partner-promo-tool-mlep-launch)
+- [Andrew Ng's Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [CS193p - Developing iOS Apps](https://cs193p.sites.stanford.edu/)
 - [CS50 Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)
 - [CS50 Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/)
@@ -50,6 +51,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
 - [Acing Your Interview 4 - Mental Game](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-4-the-mental-game-3a53c9d9cbfa)
 - [Breaking into Big Tech](https://chioualexander.medium.com/how-to-break-into-big-tech-as-a-software-engineer-a818322ad0b2)
+- [University of Michigan's EECS 281 Data Structures & Algorithms Notes](https://ajzhou.gitlab.io/eecs281/notes/)
 - [LeetCode](https://leetcode.com/)
 - [Hackerrank](https://www.hackerrank.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
