@@ -2,7 +2,7 @@
 Quick access links for all things developer workflow-related.
 
 #### WHO AM I
-Hi, I'm Peter. I'm an always-growing student, coder, designer, and content creator.
+Hi, I'm Peter. I'm an always-growing student, coder, designer, and content creator. Currently, I'm a third-year EECS Student at the University of Michigan - College of Engineering studying Computer Science and Data Science, and pursuing a minor in Business through the Ross School of Business.
 
 ## Links
 
