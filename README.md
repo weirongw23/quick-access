@@ -13,6 +13,24 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [VCF Fall 2021](https://hackmd.io/@morganrichardson/HJb6cE8xP)
 - [Technical Mentorship Program](https://codepath.chronus.com/)
 - [Student Handbook](https://books.codepath.org/student-handbook/)
+- [Quick Interview Prep Guide](https://hackmd.io/@nesquena/HJN9k17sm?type=view#Topic-Overview)
+
+### Coding Interview Prep Resources
+- [Summer 2022 Internships](https://github.com/pittcsc/Summer2022-Internships)
+- [Master List of FREE Resources](https://www.reddit.com/r/cscareerquestions/comments/e4v755/master_list_of_free_resources/)
+- [FreeCodeCamp Article](https://www.freecodecamp.org/news/landing-a-software-engineering-internship-66e0d541539a/)
+- [GitHub Resource: Interview Prep](https://github.com/Olshansk/interview#books-1)
+- [Tips for Interviewing](https://louisrli.github.io/blog/2014/01/18/tips-for-computer-science-internship-interviews/#.YPH6qhNKhwx)
+- [Acing Your Interview 1 - Data Structures & Algorithms](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-1-algorithms-and-data-structures-1b2accf115c)
+- [Acing Your Interview 2 - Behavioral Questions](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-2-behavioral-questions-a56e916cf834)
+- [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
+- [Acing Your Interview 4 - Mental Game](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-4-the-mental-game-3a53c9d9cbfa)
+- [Breaking into Big Tech](https://chioualexander.medium.com/how-to-break-into-big-tech-as-a-software-engineer-a818322ad0b2)
+- [University of Michigan's EECS 281 Data Structures & Algorithms Notes](https://ajzhou.gitlab.io/eecs281/notes/)
+- [LeetCode](https://leetcode.com/)
+- [Hackerrank](https://www.hackerrank.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [AlgoExpert](https://www.algoexpert.io/product)
 
 ### GitHub
 - [Markdown Tutorial](https://www.youtube.com/watch?v=eJojC3lSkwg)
@@ -45,18 +63,6 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [For-Else in Python](https://medium.com/techtofreedom/for-else-a-weird-but-useful-feature-in-python-2076d8dafad1)
 - [Fast Excel Reading](https://towardsdatascience.com/read-excel-files-with-python-1000x-faster-407d07ad0ed8)
 
-### Coding Interview Prep Resources
-- [Acing Your Interview 1 - Data Structures & Algorithms](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-1-algorithms-and-data-structures-1b2accf115c)
-- [Acing Your Interview 2 - Behavioral Questions](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-2-behavioral-questions-a56e916cf834)
-- [Acing Your Interview 3 - Systems Design](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-3-system-design-questions-d581bedcaf6a)
-- [Acing Your Interview 4 - Mental Game](https://chioualexander.medium.com/how-to-ace-your-software-engineering-interview-part-4-the-mental-game-3a53c9d9cbfa)
-- [Breaking into Big Tech](https://chioualexander.medium.com/how-to-break-into-big-tech-as-a-software-engineer-a818322ad0b2)
-- [University of Michigan's EECS 281 Data Structures & Algorithms Notes](https://ajzhou.gitlab.io/eecs281/notes/)
-- [LeetCode](https://leetcode.com/)
-- [Hackerrank](https://www.hackerrank.com/)
-- [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [AlgoExpert](https://www.algoexpert.io/product)
-
 ### Interview Experiences
 - [Google ML Engineer Interview Experience, Offer in East Coast](https://mlengineer.io/google-ml-engineer-interview-experience-offer-east-coast-2021-94ac6720bb79)
 - [ThoughtWorks](https://mandaljaideb.medium.com/interview-experience-thoughtworks-8ca11fdabf6a)
@@ -82,6 +88,7 @@ I'm grateful for [CodePath](https://codepath.org/) - they provide college studen
 - [5 Solved End-to-End Projects in Python](https://towardsdatascience.com/5-solved-end-to-end-data-science-projects-in-python-acdc347f36d0)
 - [Task Automation in Python](https://monterail.medium.com/how-to-become-a-task-automation-hero-using-python-with-examples-73288deddf13)
 - [Resume Screening](https://towardsdatascience.com/resume-screening-with-python-1dea360be49b)
+- [Mega Project List](https://github.com/karan/Projects#classic-algorithms)
 
 ### Software Developer Books
 - [3 Book Recommendations to level up SWE Skills](https://medium.com/analytics-vidhya/3-books-to-read-this-summer-to-boost-your-coding-skills-and-career-47401769f035)
