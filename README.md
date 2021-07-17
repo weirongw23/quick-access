@@ -2,7 +2,7 @@
 Quick access links for all things developer workflow-related.
 
 #### WHO AM I
-Hi! I'm Peter, an always-growing student, coder, designer, and content creator. Currently, I'm a third-year EECS Student at the University of Michigan - College of Engineering studying Computer Science and Data Science, and pursuing a minor in Business Administration through the Ross School of Business. I love Computer Science because there's always more to learn and it always feels like a complex, multifaceted puzzle.
+Hi! I'm Peter, an always-growing coder, designer, and content creator. Currently, I'm a third-year EECS Student at the University of Michigan - College of Engineering studying Computer Science and Data Science, and pursuing a minor in Business Administration through the Ross School of Business. I love Computer Science because there's always more to learn and it always feels like a complex, multifaceted puzzle.
 
 ## Links
 
