@@ -13,3 +13,8 @@
 ### Icons and Illustrations
 - [shape.so](https://shape.so/)
 - [Angle](https://angle.sh/) for Mockups (FREE Sample)
+
+### Platforms for Inspiration
+- [Dribbble for UI Patterns and Concepts](https://dribbble.com/)
+- [Material Design](https://material.io/)
+- [Mobbin](https://mobbin.design/browse/ios/apps) for finished designs
