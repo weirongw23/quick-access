@@ -1,13 +1,9 @@
 # DEVELOPER QUICK ACCESS LINKS
 Quick access links for all things developer workflow-related.
 
-#### WHO AM I
-Hi! I'm Peter, an always-growing coder, designer, and creator. Currently, I'm a third-year EECS Student at the University of Michigan - College of Engineering studying Computer Science and Data Science, and pursuing a minor in Business Administration through the Ross School of Business. I love Computer Science because there's always more to learn and it always feels like a complex, multifaceted puzzle.
-
 ## Links
 
 ### CodePath
-I'm grateful for [CodePath](https://codepath.org/) - they provide college students with no-cost coding courses, mentorship, and career support to prepare them for careers in tech. Their classes are usually around 12 weeks, ranging from Android to iOS mobile development, coding interviews, and CyberSecurity. The courses are taught by engineers from FAANG and past student leaders, and they are project-based and remote. If you manage to finish their courses, you're invited to their virtual career fair, where they'll match you with companies and help you prep for interviews, resume, and everything else in between. I've taken their iOS and Technical Interview Prep course, which have helped jumpstart my career into tech. As a first-gen student, these resources don't come easy, and I'm happy to share some of the allowed ones below:
 - [Course Portal](https://courses.codepath.com/courses/advanced_software_eng/unit/1#!overview)
 - [Why CodePath](https://hackmd.io/@nesquena/whycodepath?type=view)
 - [VCF Fall 2021](https://hackmd.io/@morganrichardson/HJb6cE8xP)
